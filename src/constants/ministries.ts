@@ -1,0 +1,17 @@
+const ministries = [
+	"Music Ministry",
+	"Dance Ministry",
+	"Technical Ministry",
+	"Creative Media",
+	"Sparks Kids",
+	"Young Blazing Influencers (YZER)",
+	"Faith Builders (FB)",
+	"Mentoring Active Reliable Sisters (MARS) Ministry",
+	"Couple's Ministry",
+	"Equipping Ministry",
+	"Reaper's Ministry",
+	"CCL Discipleship Ministry",
+	"Admin",
+	"JCAG San Juan (Satellite)",
+	"JCAG Mangaldan (Satellite",
+] as const;
